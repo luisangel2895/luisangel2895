@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisangel2895
 - 👀 I’m a apasionate of software development web and mobile
-- 🌱 I’m currently learning electron
+- 🌱 I’m currently learning electron and pwa
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me luisangel2895@gmail.com
 
