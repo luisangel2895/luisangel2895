@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisangel2895
-- 👀 I’m a apasionate of software development
+- 👀 I’m a apasionate of software development web and mobile
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me luisangel2895@gmail.com
