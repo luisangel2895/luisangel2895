@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ángel Orellana
+# 👋 Hi, I'm Angel Orellana
 
 💻 **Senior Frontend & Mobile Engineer** specialized in building high-performance web and mobile applications.  
 🚀 Experienced in **Vue.js, React, React Native, TypeScript, Firebase, AWS**, and scalable architectures.  
