@@ -1,27 +1,30 @@
-# 👋 Hey there, I'm Luis Angel - Full Stack Developer Extraordinaire!
+# 👋 Hi, I'm Ángel Orellana
 
-Welcome to my GitHub profile! I'm Luis Angel, a passionate and driven full-stack developer deeply entrenched in the world of web and mobile software development.
+💻 **Senior Frontend & Mobile Engineer** specialized in building high-performance web and mobile applications.  
+🚀 Experienced in **Vue.js, React, React Native, TypeScript, Firebase, AWS**, and scalable architectures.  
+📱 Passionate about crafting responsive UIs and delivering seamless user experiences.
 
-## 👀 About Me
+---
 
-- 🔥 I'm fueled by a burning passion for creating exceptional web and mobile applications.
-- 🌱 Currently, I'm immersing myself in the realms of Electron and Progressive Web Apps (PWA), seeking to push the boundaries of what's possible.
-- 💼 I'm actively seeking opportunities to collaborate on exciting startup projects that challenge and inspire.
+## 🔧 Tech Stack
+- **Frontend:** Vue.js (2/3), React, React Native, TypeScript, JavaScript (ES6+)
+- **Mobile:** React Native, Kotlin (Android), iOS/Android deployment
+- **Backend & APIs:** Node.js, REST APIs, Firebase
+- **Tools & DevOps:** AWS, Docker, Kubernetes, Git, Webpack, Cypress, Jest
+- **Architecture:** Microfrontends, MVP, Responsive Design
 
-## 🛠️ Technologies & Tools
+---
 
-- 💻 Expertise in: HTML, CSS, JavaScript, ReactJS, Node.js, Express, MongoDB, and more.
-- 📱 Developing awesome mobile experiences with: React Native and Flutter.
-- 🚀 Crafting robust desktop applications with: Electron.
-- 🎨 UI/UX enthusiast, always striving for a seamless and delightful user experience.
+## 📂 Featured Projects
+- 🛒 **Self-Checkout Platform** – Migrated from Vue.js 2 to React and Cordova to React Native, improving performance, scalability, and UX for thousands of users.
+- 🌐 **E-Commerce Platform** – Designed and implemented the entire frontend architecture in Vue.js 3 with reusable components for rapid deployment.
+- 📦 **Delivery App** – Developed from scratch in Kotlin using MVP architecture, integrating real-time data with Firebase.
 
-## 🤝 Let's Collaborate!
+---
 
-- 📬 Reach out to me at luisangel2895@gmail.com to discuss potential collaborations, projects, or simply to chat about the latest trends in tech.
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Orellana-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angelorellana)
+[![GitHub](https://img.shields.io/badge/GitHub-angelorellana-black?style=flat-square&logo=github)](https://github.com/angelorellana)
 
-Let's build something amazing together and leave a lasting mark on the world of software development! 💡🚀
-
-<!---
-luisangel2895/luisangel2895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+> ✨ *Always open to exciting opportunities to build impactful digital experiences.*
