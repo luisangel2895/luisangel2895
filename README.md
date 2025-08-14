@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Angel Orellana
 
-💻 **Senior Frontend & Mobile Engineer** specialized in building high-performance web and mobile applications.  
-🚀 Experienced in **Vue.js, React, React Native, TypeScript, Firebase, AWS**, and scalable architectures.  
-📱 Passionate about crafting responsive UIs and delivering seamless user experiences.
+💻 **Senior Frontend & Mobile Engineer** specializing in high-performance web and mobile applications.  
+🚀 Skilled in **Vue.js, React, React Native, TypeScript, Firebase, AWS**, and scalable architectures.  
+📱 Passionate about delivering seamless user experiences, from concept to production.
 
 ---
 
@@ -16,9 +16,10 @@
 ---
 
 ## 📂 Featured Projects
-- 🛒 **Self-Checkout Platform** – Migrated from Vue.js 2 to React and Cordova to React Native, improving performance, scalability, and UX for thousands of users.
-- 🌐 **E-Commerce Platform** – Designed and implemented the entire frontend architecture in Vue.js 3 with reusable components for rapid deployment.
-- 📦 **Delivery App** – Developed from scratch in Kotlin using MVP architecture, integrating real-time data with Firebase.
+- 🛒 **Self-Checkout Applications** – Led the migration of web platforms from Vue.js to React and mobile apps from Cordova/Vue.js to React Native, enhancing scalability, performance, and UX for thousands of active users. Managed the full lifecycle including App Store and Google Play deployments.
+- 🌐 **E-Commerce Platforms** – Designed complete frontend architectures in Vue.js 3, integrating REST APIs, building reusable components, and optimizing UI for responsive, high-traffic online stores.
+- 📦 **Mobile Delivery App** – Built from scratch in Kotlin with MVP architecture, integrated Firebase for real-time data, and ensured modularity and long-term maintainability.
+- ⚙️ **Cross-Functional Development** – Consistently involved in full-cycle development: planning, architecture, coding, testing, deployment, and ongoing optimization for diverse projects.
 
 ---
 
@@ -27,4 +28,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-angelorellana-black?style=flat-square&logo=github)](https://github.com/angelorellana)
 
 ---
-> ✨ *Always open to exciting opportunities to build impactful digital experiences.*
+> ✨ *Always open to building impactful digital experiences that blend performance, scalability, and great design.*
