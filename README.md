@@ -86,3 +86,29 @@ I design systems that scale, survive production, and remain maintainable.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisangel2895&bg_color=ffffff&color=002B5B&line=0B3D91&point=002B5B&area=true&hide_border=true"/>
 </p>
+
+<br/>
+
+## 🌍 International Vision
+
+I build mobile and frontend systems designed for global standards.
+
+My focus is delivering production-grade architectures that meet
+the expectations of international teams — performance, scalability,
+clean abstractions, and long-term maintainability.
+
+I am continuously refining my engineering depth in:
+
+- Advanced React Native architecture
+- High-performance frontend systems
+- Native-layer debugging & optimization
+- System design for scalable applications
+
+My goal is to contribute to high-impact global products
+where engineering quality is non-negotiable.
+
+---
+
+<p align="center">
+  <b>Engineering with discipline. Scaling with intention. Competing globally.</b>
+</p>
