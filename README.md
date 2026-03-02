@@ -68,3 +68,19 @@ I design systems that scale, survive production, and remain maintainable.
 - Handle lifecycle correctly (Android & iOS)
 - Reduce technical debt intentionally
 - Design for long-term maintainability
+
+<br/>
+
+## 📊 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisangel2895&show_icons=true&hide_border=true&title_color=002B5B&icon_color=002B5B&text_color=333333&bg_color=ffffff" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisangel2895&hide_border=true&ring=002B5B&fire=002B5B&currStreakLabel=002B5B" height="170"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisangel2895&bg_color=ffffff&color=002B5B&line=0B3D91&point=002B5B&area=true&hide_border=true"/>
+</p>
