@@ -75,9 +75,6 @@ I design systems that scale, survive production, and remain maintainable.
 
 ## 📊 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisangel2895&show_icons=true&theme=default&hide_border=true&title_color=002B5B&icon_color=002B5B" height="170"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisangel2895&hide_border=true&ring=002B5B&fire=002B5B&currStreakLabel=002B5B" height="170"/>
 </p>
 
