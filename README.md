@@ -22,6 +22,8 @@
 
 <br/>
 
+<br/>
+
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -32,9 +34,6 @@
 <img src="https://img.shields.io/badge/Next.js-002B5B?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-002B5B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-002B5B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Fabric-0B3D91?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TurboModules-0B3D91?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hermes-0B3D91?style=for-the-badge"/>
