@@ -41,3 +41,30 @@
 <img src="https://img.shields.io/badge/Swift-0B3D91?style=for-the-badge&logo=swift&logoColor=white"/>
 
 </p>
+
+<br/>
+
+## 🏗 Architecture Philosophy
+
+> Components are temporary.  
+> Architecture is permanent.
+
+I don’t just build features.  
+I design systems that scale, survive production, and remain maintainable.
+
+### Core Principles
+
+- Clear separation of concerns
+- Predictable state management
+- Typed domain modeling
+- Feature-driven folder structures
+- Performance-aware rendering
+- Native-level debugging when necessary
+
+### Production Mindset
+
+- Optimize before scaling
+- Build for real devices, not just simulators
+- Handle lifecycle correctly (Android & iOS)
+- Reduce technical debt intentionally
+- Design for long-term maintainability
