@@ -75,6 +75,7 @@ I design systems that scale, survive production, and remain maintainable.
 
 ## 📊 Development Activity
 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisangel2895&hide_border=true&ring=002B5B&fire=002B5B&currStreakLabel=002B5B" height="170"/>
 </p>
 
